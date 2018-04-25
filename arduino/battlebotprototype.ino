@@ -1,10 +1,10 @@
-char nombre[10] = "Cucaracha";
+char nombre[10] = "Garrapata";
 char password[10] = "1234";
 char baud = '4';
-int a = 13;
-int b = 14;
-int c = 15;
-int d = 16;
+int a = 2;
+int b = 3;
+int c = 4;
+int d = 5;
 
 void setup()
 {
