@@ -1,4 +1,4 @@
-char nombre[10] = "Garrapata";
+char nombre[10] = "Cucaracha";
 char password[10] = "1234";
 char baud = '4';
 int a = 13;
